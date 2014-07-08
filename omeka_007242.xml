@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_007242</identifier>
+   <titleInfo>
+      <title>Professor George Herzog</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>clippings</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1938-11-05 </dateCreated>
+      <dateCreated>1938 November 5</dateCreated>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-UA</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/ethnomusicology/center-for-ethnomusicology</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Historical Biographical Files Box 136, Folder 4 Herzog</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Music at Columbia: The First 100 Years</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9628664</url>
+      </location>
+    </relatedItem>
+   <relatedItem type="original">
+      <titleInfo>
+        <title>World-Telegram, November 5, 1938</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: Herzog newspaper clipping.jpg</note>
+   <name>
+      <namePart>Mitchell, Joseph</namePart>
+    </name>
+   <subject>
+      <topic>Herzog, George, 1901-1983</topic>
+    </subject>
+   <abstract>Newspaper clipping, "Primitive Music of Aborigines Is Preserved for Posterity," World-Telegram</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

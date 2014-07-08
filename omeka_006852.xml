@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_006852</identifier>
+   <titleInfo>
+      <title>Opera Workshop rehearsal of Evangeline</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1948</dateCreated>
+      <dateCreated>Spring 1948</dateCreated>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-UA</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/music/opera-workshop</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Office of Public Affairs Photographs Box 31, Folder 2 Music Department</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Music at Columbia: The First 100 Years</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9628664</url>
+      </location>
+    </relatedItem>
+   <note>original filename: Evangeline Rehearsal.jpg</note>
+   <name>
+      <namePart>Warman</namePart>
+    </name>
+   <subject>
+      <topic>Luening, Otto, 1900-1996</topic>
+      <topic> Beeson, Jack, 1921-2010 </topic>
+      <topic> Stich-Randall, Teresa, 1927-2007</topic>
+    </subject>
+   <typeOfResource>still image</typeOfResource>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

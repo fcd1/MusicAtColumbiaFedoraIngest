@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_006472</identifier>
+   <titleInfo>
+      <title>Paul Henry Lang, Photograph </title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="inferred">1901</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1991</dateCreated>
+      <publisher>Conway Studios</publisher>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-UA</physicalLocation>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Historical Subject Files Portraits Lang</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Music at Columbia: The First 100 Years</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9628664</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Historical Subject Files</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: 110118157.tif</note>
+   <name>
+      <namePart>Conway Studios (New York, N.Y.)</namePart>
+    </name>
+   <subject>
+      <topic>Lang, Paul Henry, 1901-1991</topic>
+    </subject>
+   <abstract>Paul Henry Lang</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

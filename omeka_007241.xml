@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_007241</identifier>
+   <titleInfo>
+      <title>Fritz Reiner</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="inferred">1914</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1921</dateCreated>
+      <dateCreated>between 1914 and 1921</dateCreated>
+      <place>
+        <placeTerm type="text">Dresden</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation>Non-CUL</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/music-centennial/fritz-reiner-center/fritz-reiner</url>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Music at Columbia: The First 100 Years</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9628664</url>
+      </location>
+    </relatedItem>
+   <note>Image was downloaded from Wikimedia Commons. Original photograph is in the Bain Collection, Library of Congress Prints and Photographs Division.</note>
+   <note>original filename: Fritz_Reiner_Bain.jpg</note>
+   <name>
+      <namePart>Erfurth, Hugo, 1874-1948</namePart>
+    </name>
+   <subject>
+      <topic>Reiner, Fritz, 1888-1963</topic>
+    </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>
